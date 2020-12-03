@@ -1,5 +1,6 @@
 # SocialBoiler
-CS 307 Project
+A social media platform developed by Onur Onen, Cindy Shi, Prakhar Nahar, Uras Yazici, Sayed Alaali for CS 307. 
 
 
-By Cindy Shi, Onur Onen, Prakhar Nahar, Uras Yazici, Sayed Alaali
+
+
